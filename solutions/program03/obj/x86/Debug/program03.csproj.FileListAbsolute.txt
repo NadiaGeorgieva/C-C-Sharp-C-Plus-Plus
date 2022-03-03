@@ -1,0 +1,5 @@
+/home/nadia/C#/program1.cs/program01.cs/program03/bin/Debug/program03.exe
+/home/nadia/C#/program1.cs/program01.cs/program03/bin/Debug/program03.pdb
+/home/nadia/C#/program1.cs/program01.cs/program03/obj/x86/Debug/program03.csproj.CoreCompileInputs.cache
+/home/nadia/C#/program1.cs/program01.cs/program03/obj/x86/Debug/program03.exe
+/home/nadia/C#/program1.cs/program01.cs/program03/obj/x86/Debug/program03.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{46E9548C-F391-4968-89DB-BCC7DC0AF994}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="program03/Program.cs">
+    <Files>
+      <File FileName="program01.cs/Program.cs" Line="17" Column="1" />
+      <File FileName="program02/Program.cs" Line="19" Column="1" />
+      <File FileName="program03/Program.cs" Line="8" Column="10" />
+      <File FileName="program04/Program.cs" Line="9" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solutions" expanded="True">
+            <Node name="program01.cs" expanded="True" />
+            <Node name="program02" expanded="True" />
+            <Node name="program03" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="program04" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.program01.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.program04 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.program03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.program02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
